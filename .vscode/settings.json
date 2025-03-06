@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./isic-2019"
+    ]
+}
